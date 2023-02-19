@@ -32,8 +32,8 @@ body {
 
 .box__label {
   font-size: 18px;
-  margin-right: 280px;
-  margin-left: 70px;
+  margin-right: 320px;
+  margin-left: 20px;
 }
 
 .box__label input[type="checkbox"] {
