@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #222;
+}
+
+.wrapper__title {
+  color: #fff;
+}
+
+.wrapper__input {
+  outline: none;
+  width: 450px;
+  padding: 12px 20px;
+  border-radius: 12px;
+  margin-bottom: 80px;
+  box-shadow: 1px 1px 10px #fff;
+}
+
+.box {
+  width: 450px;
+  padding: 10px 0px;
+  background-color: #fff;
+  margin-bottom: 10px;
+  border-radius: 8px;
+  box-shadow: 10px 10px 10px gray;
+}
+
+.box__label {
+  font-size: 18px;
+  margin-right: 280px;
+  margin-left: 70px;
+}
+
+.box__label input[type="checkbox"] {
+  border-radius: 0.25em;
+}
