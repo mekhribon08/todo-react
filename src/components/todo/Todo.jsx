@@ -43,6 +43,9 @@ export default function Todo() {
         <button className="btn" type="submit">
           Add
         </button>
+        <button className="btn" onClick={setTodos}>
+          Clear all
+        </button>
 
         {/* <div className="box">
           <input type="checkbox" />
