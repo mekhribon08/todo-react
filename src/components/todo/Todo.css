@@ -22,7 +22,7 @@ body {
 }
 
 .box {
-  max-width: 450px;
+  /* max-width: 450px; */
   padding: 10px 0px;
   background-color: #fff;
   margin-bottom: 10px;
