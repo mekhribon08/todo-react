@@ -22,7 +22,7 @@ body {
 }
 
 .box {
-  width: 450px;
+  max-width: 450px;
   padding: 10px 0px;
   background-color: #fff;
   margin-bottom: 10px;
@@ -38,4 +38,11 @@ body {
 
 .box__label input[type="checkbox"] {
   border-radius: 0.25em;
+}
+
+.btn {
+  margin-left: 20px;
+  border-radius: 12px;
+  box-shadow: 1px 1px 10px #fff;
+  border: 1px solid black;
 }
